@@ -3,7 +3,7 @@
 > A comprehensive collection of cheatsheets and quick references for developers
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](#contributing)
 
 ## 📖 Table of Contents
 
@@ -89,7 +89,7 @@ We welcome contributions! Here's how you can help:
 4. **Push to your branch** (`git push origin feature/amazing-cheatsheet`)
 5. **Open a Pull Request**
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+For more detailed guidelines, please refer to the CONTRIBUTING.md file if available in the repository.
 
 ## 📄 License
 
